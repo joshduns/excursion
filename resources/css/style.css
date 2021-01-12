@@ -1,0 +1,36 @@
+html {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-weight: normal;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+h2 {
+    font-size: 21px;
+    color: gray;
+    font-weight: normal;
+}
+
+.copyright {
+    text-align: right;
+    color: gray;
+    font-size: 14px;
+}
